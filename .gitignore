@@ -1,0 +1,8 @@
+.vscode/
+.idea/
+.DS_Store/
+vendor/
+third_party/
+*.o
+*.out
+*.exe
